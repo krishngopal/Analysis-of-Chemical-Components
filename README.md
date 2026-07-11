@@ -97,6 +97,6 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 
 ## 📬 Contact
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *www.linkedin.com/in/krishnagopal-chandrawanshi-4a3a14246*
 
-GitHub: *(Add your GitHub Profile URL)*
+GitHub: *[(Add your GitHub Profile URL)](https://github.com/krishngopal/Analysis-of-Chemical-Components)*
